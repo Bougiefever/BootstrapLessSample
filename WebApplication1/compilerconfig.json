@@ -1,0 +1,30 @@
+﻿[
+  {
+    "outputFile": "Content/themes/flatly/bootstrap.css",
+    "inputFile": "Content/themes/flatly/bootstrap.less"
+  },
+  {
+    "outputFile": "Content/themes/flatly/bootswatch.css",
+    "inputFile": "Content/themes/flatly/bootswatch.less"
+  },
+  {
+    "outputFile": "Content/themes/flatly/variables.css",
+    "inputFile": "Content/themes/flatly/variables.less"
+  },
+  {
+    "outputFile": "Content/bootstrap/wells.css",
+    "inputFile": "Content/bootstrap/wells.less"
+  },
+  {
+    "outputFile": "Content/bootstrap/alerts.css",
+    "inputFile": "Content/bootstrap/alerts.less"
+  },
+  {
+    "outputFile": "Content/bootstrap/badges.css",
+    "inputFile": "Content/bootstrap/badges.less"
+  },
+  {
+    "outputFile": "Content/bootstrap/bootstrap.css",
+    "inputFile": "Content/bootstrap/bootstrap.less"
+  }
+]
