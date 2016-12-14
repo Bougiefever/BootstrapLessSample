@@ -140,6 +140,12 @@
     <Content Include="Content\themes\flatly\bootstrap.min.css">
       <DependentUpon>bootstrap.css</DependentUpon>
     </Content>
+    <Content Include="Content\themes\flatly\bootswatch.css">
+      <DependentUpon>bootswatch.less</DependentUpon>
+    </Content>
+    <Content Include="Content\themes\flatly\bootswatch.min.css">
+      <DependentUpon>bootswatch.css</DependentUpon>
+    </Content>
     <Content Include="Content\themes\flatly\variables.css">
       <DependentUpon>variables.less</DependentUpon>
     </Content>
